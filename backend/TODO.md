@@ -1,0 +1,4 @@
+- [x] Add BASE_URL and FRONTEND_URL to .env
+- [x] Integrate Socket.IO in backend for real-time notifications
+- [x] Update applications.js to emit events on status update
+- [ ] Test Google OAuth and Socket.IO connection
